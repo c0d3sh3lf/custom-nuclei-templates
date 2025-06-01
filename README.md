@@ -8,7 +8,7 @@ Author: @c0d3sh3lf (Sumit Shrivastava)
 - ⚠️ Disclaimer [DISCLAIMER.md](DISCLAIMER.md)
 - 📝 License [LICENSE.md](LICENSE.md)
 
-**Below templates are updated:**
+#### Template and Change Log
 
 ### 01-06-2025
 
