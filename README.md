@@ -12,5 +12,7 @@ Author: @c0d3sh3lf (Sumit Shrivastava)
 
 ### 01-06-2025
 
-1. [check-caa-records.yaml](check-caa-records.yaml) - This template can check and extract CAA records provided for the targetted URL.
-2. [wp-detector.yaml](wp-detector.yaml) - This template checks the targetted URL for WordPress hosting by looking at the license.txt file
+Added:
+
+- [check-caa-records.yaml](check-caa-records.yaml) - This template can check and extract CAA records provided for the targetted URL.
+- [wp-detector.yaml](wp-detector.yaml) - This template checks the targetted URL for WordPress hosting by looking at the license.txt file
