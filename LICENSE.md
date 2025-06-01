@@ -206,29 +206,29 @@ produce it from the Templates, in the form of source code under the
 terms of section 4, provided that you also meet all of these
 conditions:
 
-     a) The work must carry prominent notices stating that you modified
-     it, and giving a relevant date.
+1. The work must carry prominent notices stating that you modified
+   it, and giving a relevant date.
 
-     b) The work must carry prominent notices stating that it is
-     released under this License and any conditions added under
-     section 7. This requirement modifies the requirement in section 4
-     to “keep intact all notices”.
+2. The work must carry prominent notices stating that it is
+   released under this License and any conditions added under
+   section 7. This requirement modifies the requirement in section 4
+   to “keep intact all notices”.
 
-     c) You must license the entire work, as a whole, under this
-     License to anyone who comes into possession of a copy. This
-     License will therefore apply, along with any applicable section 7
-     additional terms, to the whole of the work, and all its parts,
-     variant or modified versions of it, and you must make sure that the
-     whole of the work is licensed under this License and not any
-     other license. This License gives no permission to license the
-     work in any other way, but it does not invalidate such
-     permission if you have separately received it.
+3. You must license the entire work, as a whole, under this
+   License to anyone who comes into possession of a copy. This
+   License will therefore apply, along with any applicable section 7
+   additional terms, to the whole of the work, and all its parts,
+   variant or modified versions of it, and you must make sure that the
+   whole of the work is licensed under this License and not any
+   other license. This License gives no permission to license the
+   work in any other way, but it does not invalidate such
+   permission if you have separately received it.
 
-     d) If the work has interactive user interfaces, each must display
-     Appropriate Legal Notices; if the Templates have interactive GUIs,
-     each must display Appropriate Legal Notices; if the Templates do
-     not have any interactive user interfaces, this requirement does
-     not apply.
+4. If the work has interactive user interfaces, each must display
+   Appropriate Legal Notices; if the Templates have interactive GUIs,
+   each must display Appropriate Legal Notices; if the Templates do
+   not have any interactive user interfaces, this requirement does
+   not apply.
 
 A compilation of covered Templates with other separate and independent
 works, which are not by their nature extensions of the covered Templates,
@@ -248,45 +248,45 @@ of sections 4 and 5, provided that you also convey the
 machine-readable Corresponding Source under the terms of this License,
 in one of these ways:
 
-     a) Convey the object code in, or embodied in, a physical product
-     (including a physical distribution medium), accompanied by a
-     written offer, valid for at least three years, to give any
-     third party, for a charge no more than your cost of physically
-     performing source distribution, a complete machine-readable
-     copy of the Corresponding Source, to be distributed under these
-     terms.
+1. Convey the object code in, or embodied in, a physical product
+   (including a physical distribution medium), accompanied by a
+   written offer, valid for at least three years, to give any
+   third party, for a charge no more than your cost of physically
+   performing source distribution, a complete machine-readable
+   copy of the Corresponding Source, to be distributed under these
+   terms.
 
-     b) Convey the object code in, or embodied in, a physical product
-     (including a physical distribution medium), accompanied by a
-     written offer, valid for at least three years, to give any
-     third party, for a charge no more than your cost of physically
-     performing source distribution, a complete machine-readable
-     copy of the Corresponding Source, to be distributed under these
-     terms.
+2. Convey the object code in, or embodied in, a physical product
+   (including a physical distribution medium), accompanied by a
+   written offer, valid for at least three years, to give any
+   third party, for a charge no more than your cost of physically
+   performing source distribution, a complete machine-readable
+   copy of the Corresponding Source, to be distributed under these
+   terms.
 
-     c) Accompany the object code with the Corresponding Source
-     in the same physical product.
+3. Accompany the object code with the Corresponding Source
+   in the same physical product.
 
-     d) Convey individual copies of the object code with a copy of the
-     written offer to provide the Corresponding Source. This
-     alternative is allowed only occasionally and noncommercially,
-     and only if you received the object code with such an offer, in
-     accord with subsection 6b.
+4. Convey individual copies of the object code with a copy of the
+   written offer to provide the Corresponding Source. This
+   alternative is allowed only occasionally and noncommercially,
+   and only if you received the object code with such an offer, in
+   accord with subsection 6b.
 
-     e) Convey the object code by offering access from a designated
-     place (gratis or for a charge), and offer equivalent access to
-     the Corresponding Source in the same way through the same
-     place at no further charge. You need not require recipients to
-     copy the Corresponding Source along with the object code. If
-     the place to copy the object code is a network server, the
-     Corresponding Source may be on a different server (operated by
-     you or a third party) that supports equivalent access
-     functionality.
+5. Convey the object code by offering access from a designated
+   place (gratis or for a charge), and offer equivalent access to
+   the Corresponding Source in the same way through the same
+   place at no further charge. You need not require recipients to
+   copy the Corresponding Source along with the object code. If
+   the place to copy the object code is a network server, the
+   Corresponding Source may be on a different server (operated by
+   you or a third party) that supports equivalent access
+   functionality.
 
-     f) Convey the object code using peer-to-peer transmission, provided
-     you inform other peers where the object code and Corresponding
-     Source of the Templates are being offered to the public at no
-     charge under subsection 6e.
+6. Convey the object code using peer-to-peer transmission, provided
+   you inform other peers where the object code and Corresponding
+   Source of the Templates are being offered to the public at no
+   charge under subsection 6e.
 
 A separable portion of the object code, whose source code is
 excluded from the Corresponding Source as a System Library, need not
