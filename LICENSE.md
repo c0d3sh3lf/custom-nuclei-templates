@@ -4,9 +4,11 @@ Version 3, 29 June 2007
 
 Copyright © 2025 Sumit Shrivastava
 
-Repository: https://github.com/c0d3sh3lf/custom-nuclei-templates
+**Repository:** https://github.com/c0d3sh3lf/custom-nuclei-templates
 
-Date: 01-Jun-2025
+**Author:** Sumit Shrivastava _a.k.a_ [c0d3sh3lf](https://github.com/c0d3sh3lf) _a.k.a_ [invad3rsam](https://invadersam.com)
+
+**Date:** 01-Jun-2025
 
 **“Templates”** refers to the Nuclei template files and related assets
 contained in this repository.
