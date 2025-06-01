@@ -1,0 +1,16 @@
+id: wp-detected
+
+info:
+  name: Wordpress Detector
+  author: Sumit Shrivastava
+  severity: info
+  description: Detects if the target site is running WordPress
+
+requests:
+  - method: GET
+    path:
+      - '{{BaseURL}}/license.txt'
+    matchers:
+      - type: word
+        words:
+          - 'WordPress'

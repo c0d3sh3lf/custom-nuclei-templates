@@ -1,0 +1,37 @@
+id: caa-record-check
+
+info:
+  name: Check for CAA record
+  author: Sumit Shrivastava
+  severity: info
+  description: Queries the CAA record and extracts the issuer (if any)
+  reference: https://support.dnsimple.com/articles/caa-record/
+  tags: dns,caa
+
+dns:
+  - name: '{{FQDN}}'
+    type: CAA
+    class: IN
+    recursion: true
+    # If your local resolver refuses to return CAA, uncomment:
+    # servers:
+    #   - "8.8.8.8"
+
+    matchers:
+      - type: regex
+        part: answer
+        # Look for 'issue "some-issuer"' (also covers issuewild / iodef if needed)
+        regex:
+          - 'issue\s+"([^"]+)"'
+          - 'issuewild\s+"([^"]+)"'
+          - 'iodef\s+"([^"]+)"'
+
+    extractors:
+      - type: regex
+        part: answer
+        group: 1
+        # Capture exactly what's inside the quotes
+        regex:
+          - 'issue\s+"([^"]+)"'
+          - 'issuewild\s+"([^"]+)"'
+          - 'iodef\s+"([^"]+)"'
