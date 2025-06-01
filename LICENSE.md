@@ -1,5 +1,6 @@
-                    GNU GENERAL PUBLIC LICENSE
-                      Version 3, 29 June 2007
+# GNU GENERAL PUBLIC LICENSE
+
+Version 3, 29 June 2007
 
 Copyright © 2025 Sumit Shrivastava
 Repository: https://github.com/c0d3sh3lf/custom-nuclei-templates
@@ -553,4 +554,4 @@ waiver of all civil liability in connection with the Templates, unless a
 warranty or assumption of liability accompanies a copy of the Templates in
 return for a fee.
 
-                         END OF TERMS AND CONDITIONS
+**END OF TERMS AND CONDITIONS**
