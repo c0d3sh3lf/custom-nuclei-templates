@@ -3,11 +3,12 @@
 This is my repository of the custom public nuclei templates that I create.
 Author: @c0d3sh3lf (Sumit Shrivastava)
 
-⚠️ Disclaimer [DISCLAIMER.md](DISCLAIMER.md)
+#### Important Links
 
-📝 License [LICENSE.md](LICENSE.md)
+- ⚠️ Disclaimer [DISCLAIMER.md](DISCLAIMER.md)
+- 📝 License [LICENSE.md](LICENSE.md)
 
-Below templates are updated:
+**Below templates are updated:**
 
 ### 01-06-2025
 
