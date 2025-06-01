@@ -1,7 +1,8 @@
 # Custom Nuclei Templates
 
 This is my repository of the custom public nuclei templates that I create.
-Author: @c0d3sh3lf (Sumit Shrivastava)
+
+**Author:** @c0d3sh3lf (Sumit Shrivastava)
 
 #### Important Links
 
